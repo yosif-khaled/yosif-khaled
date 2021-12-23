@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yosif-khaled
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning pygame, love2d, unity
+- 👀 I’m interested in Game Development, android development
+- 🌱 I’m currently learning pygame, love2d, unity, flutter
 - 💞️ I’m looking to collaborate on Game-Dev projects
 - 📫 Reach me on yosif.khaledjm@gmail.com
 
